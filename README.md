@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building%20Projects%20Every%20Day-22C55E?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 <p align="center">
